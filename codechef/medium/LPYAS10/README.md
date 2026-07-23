@@ -4,18 +4,20 @@
 
 ## Problem
 
-_Description not available._
+### Print Learn Coding on CodeChef
+
+Print  **"Learn Coding on CodeChef"**  to the console.
 
 ## Solution
 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-23T17:30:11.134Z  
+**Submitted:** 2026-07-23T17:30:40.022Z  
 
 ```py
 # cook your dish here
-print(12*9)
+print("Learn coding on CodeChef")
 ```
 
 ---

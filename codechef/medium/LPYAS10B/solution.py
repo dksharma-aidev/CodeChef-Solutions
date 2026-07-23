@@ -1,6 +1,6 @@
 # cook your dish here
-print("*")
-print("**")
-print("***")
-print("****")
-print("*****")
+i = 0
+n = "*"
+while i <= 5:
+    print(n * i)
+    i = i + 1

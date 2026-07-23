@@ -1,2 +1,2 @@
 # cook your dish here
-print(12*9)
+print("Learn coding on CodeChef")

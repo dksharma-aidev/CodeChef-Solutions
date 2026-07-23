@@ -32,15 +32,15 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-23T17:31:41.470Z  
+**Submitted:** 2026-07-23T17:39:36.330Z  
 
 ```py
 # cook your dish here
-print("*")
-print("**")
-print("***")
-print("****")
-print("*****")
+i = 0
+n = "*"
+while i <= 5:
+    print(n * i)
+    i = i + 1
 ```
 
 ---

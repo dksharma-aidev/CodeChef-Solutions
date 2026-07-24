@@ -25,8 +25,8 @@
 
 | Language | Solutions |
 |:---:|:---:|
-| Python | **13** |
-| C++ | **1** |
+| Python | **14** |
+| C++ | **0** |
 
 ## 📂 Repository Structure
 

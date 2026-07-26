@@ -23,7 +23,7 @@ print(c)
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-26T17:48:56.225Z  
+**Submitted:** 2026-07-26T17:49:09.300Z  
 
 ```cpp
 # cook your dish here

@@ -63,7 +63,7 @@ Each person orders one packet, so the maximum number of customers that can be se
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-26T17:56:58.504Z  
+**Submitted:** 2026-07-26T17:55:26.430Z  
 
 ```py
 # cook your dish here
